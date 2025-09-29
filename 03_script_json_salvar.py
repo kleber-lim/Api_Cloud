@@ -2,7 +2,7 @@ import json
 
 # Lista de alunos (simulando dados que poderiam vir da nuvem)
 alunos = [
-    {"nome": "JoÃ£o", "curso": "ADS"}S
+    {"nome": "JoÃo", "curso": "ADS"},
     {"nome": "Maria", "curso": "CC"},
     {"nome": "Ana", "curso": "ADS"}
 ]
