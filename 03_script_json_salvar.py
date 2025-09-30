@@ -8,7 +8,7 @@ alunos = [
 ]
 
 # Salvando em arquivo local
-with open("alunos.json", "w") as f:
+with open("python-cloud-trabalho/alunos.json", "w") as f:
     json.dump(alunos, f, indent=4)
 #json.dump grava a lista no formato json
 #indent=4 formato para facilitar a leitura

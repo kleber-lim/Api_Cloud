@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Cloud/Api_Cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Cloud/Api_Cloud/Api_Cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Cloud/Api_Cloud/Api_Cloud/Api_Cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api_Cloud/Api_Cloud/Api_Cloud/Api_Cloud/python-cloud-trabalho" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-cloud-trabalho" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-cloud-trabalho/python-cloud-trabalho" vcs="Git" />
   </component>
 </project>
